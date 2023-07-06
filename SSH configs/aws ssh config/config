@@ -1,0 +1,4 @@
+Host AWS
+  HostName ec2-13-233-48-24.ap-south-1.compute.amazonaws.com
+  IdentityFile /home/mehedi/Documents/TS\ model\ test/TM_Model/TM_key.pem
+  User ubuntu

@@ -1,0 +1,6 @@
+Host UNO
+  HostName 118.67.208.18
+  User mehedi
+  Port 32101
+  PasswordAuthentication yes
+  PreferredAuthentications keyboard-interactive,password
