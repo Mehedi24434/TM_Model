@@ -3,3 +3,5 @@ catboost_info/catboost_training.json
 catboost_info/learn_error.tsv
 .gitignore
 .gitignore
+catboost_info/time_left.tsv
+catboost_info/learn/events.out.tfevents
